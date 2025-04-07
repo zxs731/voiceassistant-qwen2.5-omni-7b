@@ -1,0 +1,6 @@
+webrtcvad
+noisereduce
+pyaudio
+numpy
+openai
+python-dotenv
